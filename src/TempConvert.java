@@ -1,5 +1,5 @@
 import java.until.Scanner;
-public class ThisIsMyClassName 
+public class TempConvert
 
 	public static main(String[] args) {
 		// -------INSTRUCTIONS-------
